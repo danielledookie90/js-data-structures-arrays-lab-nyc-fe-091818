@@ -35,3 +35,5 @@ function removeLastDriver() {
   return driversCopy
 }
 
+function removeFirstDriver()
+const driversCopy = 
