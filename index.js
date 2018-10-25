@@ -36,4 +36,4 @@ function removeLastDriver() {
 }
 
 function removeFirstDriver()
-const driversCopy = 
+const driversCopy = drivers.slice()
